@@ -18,6 +18,8 @@ The "Equal Weight S&P 500 Screener" project is a Python script designed to retri
 ```bash
 git clone https://github.com/shaikhmubin02/Equal_Weight_S-P_500_Screener.git
 
+```
+
 ## License
 
 MIT 
