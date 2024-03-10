@@ -11,7 +11,7 @@ The "Equal Weight S&P 500 Screener" project is a Python script designed to retri
 - Portfolio Allocation: Based on a specified portfolio size provided by the user, the script recommends the number of shares to buy for each stock to achieve an equal-weighted portfolio.
 - Output Generation: The script generates a spreadsheet (recommended_trades.xlsx) containing recommended trades for the user's portfolio allocation.
 
-### Installation
+## Installation
 
 1. Clone this repository to your local machine:
 
@@ -24,6 +24,6 @@ git clone https://github.com/shaikhmubin02/Equal_Weight_S-P_500_Screener.git
 
 MIT 
 
-## Contributors
+### Contributors
 
 shaikh mubin
