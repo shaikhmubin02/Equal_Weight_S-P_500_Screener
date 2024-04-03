@@ -23,8 +23,3 @@ git clone https://github.com/shaikhmubin02/Equal_Weight_S-P_500_Screener.git
 ## License
 
 MIT 
-
-
-### Contributors
-
-shaikh mubin
